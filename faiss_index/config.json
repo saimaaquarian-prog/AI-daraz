@@ -1,0 +1,7 @@
+{
+  "embed_model": "all-MiniLM-L6-v2",
+  "dim": 384,
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "num_chunks": 6
+}

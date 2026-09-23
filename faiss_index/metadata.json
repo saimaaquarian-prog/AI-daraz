@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f2b1e593-5504-4691-a06f-c8f60743e3b4",
+    "department": "returns",
+    "source_file": "returns_policy.pdf",
+    "text": "Daraz Returns Policy Detailed guidelines on product return windows, condition requirements, non-returnable items, and the step-by-step return initiation process via the Daraz app. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  },
+  {
+    "id": "60b3d130-6693-4de5-be60-86fa1d062eb0",
+    "department": "delivery",
+    "source_file": "delivery_policy.pdf",
+    "text": "Daraz Delivery Policy Information regarding standard and expedited shipping timelines, delivery charges, tracking mechanisms, and courier partner handling. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  },
+  {
+    "id": "e2bcfc54-a2cf-4d3b-83b9-0de8a467c7fd",
+    "department": "refunds",
+    "source_file": "refunds_policy.pdf",
+    "text": "Daraz Refunds Policy Policies governing refund methods (bank transfer, voucher, mobile wallet), processing durations, and status tracking for returned or cancelled orders. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  },
+  {
+    "id": "177850bf-7f4b-418c-aa21-c432febad485",
+    "department": "seller",
+    "source_file": "seller_guidelines.pdf",
+    "text": "Daraz Seller Guidelines Essential standards for vendor onboarding, product listing regulations, fulfillment performance metrics, and seller code of conduct. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  },
+  {
+    "id": "70d5ac24-e53e-4efb-8b21-9c758e85a31b",
+    "department": "payments",
+    "source_file": "payments_policy.pdf",
+    "text": "Daraz Payments & Billing Overview of accepted payment gateways (Credit/Debit Cards, JazzCash, EasyPaisa, Cash on Delivery) and secure transaction protocols. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  },
+  {
+    "id": "954f7760-17b6-4e75-8c29-86daa781cefc",
+    "department": "customer_support",
+    "source_file": "customer_support.pdf",
+    "text": "Daraz Customer Support Hub Channels for resolving disputes, contacting live chat assistance, escalation matrices, and buyer protection safeguards. Standard Operating Procedure & Policy Reference This document outlines the official policies, rules, and procedures established by Daraz to ensure a transparent, safe, and efficient e-commerce ecosystem for buyers and sellers alike."
+  }
+]
